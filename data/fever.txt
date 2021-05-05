@@ -1,0 +1,244 @@
+what is fever?
+Fever is when a human's body temperature goes above the normal range of 36–37° Centigrade (98–100° Fahrenheit). It is a common medical sign. Other terms for a fever include pyrexia and controlled hyperthermia. As the body temperature goes up, the person may feel cold until it levels off and stops rising.
+
+What is yellow fever?
+Yellow fever is a disease caused by a virus that is spread to people by the bite of an infected mosquito.
+
+types of fever?
+There are four types of fever.  1.continued 2.Intermittent 3.Remittent 4.relapsing 
+
+what is continued?
+Continuous fever is a type or pattern of fever in which temperature does not touch the baseline and remains above normal throughout the day. The variation between maximum and minimum temperature in 24 hours is less than 1°C (1.5°F). It usually occurs due to some infectious disease.
+
+what is intermittent?
+Intermittent fever is a type or pattern of fever in which there is an interval where temperature is elevated for several hours followed by an interval when temperature drops back to normal.
+
+what is Remittent?
+Remittent Fever is a type or pattern of fever in which temperature does not touch the baseline and remains above normal throughout the day.
+
+what is relapsing?
+Relapsing fever is a recurring febrile disease caused by several species of the spirochete Borrelia and transmitted by lice or ticks. Symptoms are recurrent febrile episodes with headache, myalgia, and vomiting lasting 3 to 5 days, separated by intervals of apparent recovery.
+ 
+what is hactic?
+Fever may also be described as: Remitting - the most common type with daily temperatures fluctuating above the normal range. Intermittent - daily temperature drops into the normal range and then rises back above normal. If temperature fluctuates widely causing chills and sweating, it is called a hectic fever.	
+
+What are the symptoms of intermittent fever?
+Sweating, Chills and shivering, Headache, Muscle aches, Loss of appetite, Irritability, Dehydration, General weakness.
+
+What are the symptoms of continued fever?
+Sweating, Chills and shivering, Headache, Muscle aches, Loss of appetite, Irritability, Dehydration, General weakness.
+
+What are the symptoms of Remittent fever?
+Bleeding , Coma , Headache ,Joint aches, muscle aches, Nausea and vomiting, Sagging on one side of the face (facial droop),Stiff neck ,Sudden high fever, shaking chills, seizure.
+
+What are the symptoms of relapsing fever?
+Bleeding , Coma , Headache ,Joint aches, muscle aches, Nausea and vomiting, Sagging on one side of the face (facial droop),Stiff neck ,Sudden high fever, shaking chills, seizure.
+
+What are the symptoms of relapsing fever?
+Headache ,Joint aches, muscle aches ,Loss of appetite, Irritability.
+
+example of continued?
+Typhoide fever , typhus fever , drug fever, malignant hyperthermia. 
+
+example of intermittent?
+pyogenic ingfection, lymphoma , military T.B. 
+
+example of Remittent?
+No characteristic  particular disease.
+
+example of relapsing?
+Malaria , lymphoma .
+
+Good morning,
+Good morning!How are you?
+
+i am good
+Ok,how can I help you?
+i am fine
+Ok,how can I help you?
+fine
+Ok,how can I help you?
+
+I have been suffering from fever since yesterday.
+Ok, How many days you felt like this?
+
+I have been suffering from fever?
+Ok, How many days you felt like this? 
+
+I also feel headache and shivering.
+All right, Do you have any pre-existing condition?
+
+
+I am  have fever
+Ok, How many days you felt like this? 
+
+i have cold fever
+Ok, How many days you felt like this?
+
+yesterday
+Ok, don't worry, Are you taking  any medicines [y/n]?
+
+
+Ok, don't worry, Are you taking  any medicines [y/n]?
+ 
+1 day
+Ok, don't worry, Are you taking  any medicines [y/n]?
+
+one day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+two day
+Ok, don't worry , Are you taking any medicines  [y/n]?
+
+2 day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+three day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+3 day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+four day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+five day
+Ok, don't worry , Are you taking any medicines  [y/n]?
+
+six day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+5 day
+Ok, don't worry , Are you taking any medicines  [y/n]?
+
+4 day
+Ok, don't worry , Are you taking any medicines  [y/n]?
+
+6 day
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+1 week
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+last 2 to 3 days
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+last 3 to 4 days
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+last 4 to 5 days
+Ok, don't worry , Are you taking any medicines [y/n]?
+	
+last two to three days
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+last three to four days
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+
+last four to five days
+Ok, don't worry , Are you taking any medicines [y/n]?
+
+n 
+ok . it's  fine.
+
+y
+which medicine?
+
+i don't know?
+nov Worry.
+
+paracetamol
+ok ,no problem. 
+
+Acetaminophen
+ok ,no problem. but it's  not fair.
+
+ibuprofen
+ok ,no problem.
+ 
+few days 
+All right, Do you have any pre-existing condition?
+
+no
+OK, Are you taking medications for any other condition?
+
+yes taking
+please mention that?
+
+paracetamol
+Ok ,Don't worry. So what do you feel?
+
+Tylenol
+Ok ,Don't worry. So what do you feel?
+
+Crocin Advance 
+Ok ,Don't worry. So what do you feel?
+
+I don't feel good.
+ok, How much time you sleep? 
+
+little good
+ok,How much time you sleep ?
+
+feel good but not satisfied
+ok,How much time you sleep?
+
+bad feel
+ok,How much time you sleep?
+
+i sleep five to six hours
+you need to  sleep minimum 8 hours and needs to be rest.
+
+i sleep 5 to 6 hours
+you need to  sleep minimum 8 hours and needs to be rest .
+
+5 t0 6
+you need to  sleep minimum 8 hours and needs to be rest.
+
+i sleep eight hours
+ok , eight hours sleep time is fine.
+
+i sleep 8 hours
+ok , eight hours sleep time is fine.
+
+i sleep more than 8 hours
+ok , eight hours and more sleep time is fine.
+
+i sleep less than five hours
+you need to  sleep minimum 8 hours and needs to be rest.
+
+i sleep 5 hours
+you need to  sleep minimum 8 hours and needs to be rest.
+
+thank you doctor
+It’s all right , Take care.  
+
+What should I eat doctor?
+You should eat only light food. You can take milk and fresh fruit also.
+
+What should I eat?
+You should eat only light food. You can take milk and fresh fruit also.
+
+ok
+fine
+
+which madicine can i take?
+for what disease
+
+fever
+madicine : Crocin Advance , paracetamol ,	Tylenol, acetaminophen
+
+madicine for fever? 
+madicine : Crocin Advance , paracetamol ,	Tylenol, acetaminophen
+
+which medicine uses for fever?
+madicine : Crocin Advance , paracetamol ,	Tylenol, acetaminophen
+
+tablet for fever?
+madicine : Crocin Advance , paracetamol ,	Tylenol, acetaminophen
+
+What causes a fever?
+In response to an infection, illness, or some other cause, the hypothalamus may reset the body to a higher temperature. Although the most common causes of fever are common infections such as colds and gastroenteritis, other causes include: Infections of the ear, lung, skin, throat, bladder, or kidney.
+
+ 
